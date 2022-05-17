@@ -72,6 +72,20 @@ ul{
   box-sizing: border;
 }
 
+.course .list-item .info p{
+  font-size: 14px;
+  margin-top: 7px;
+}
+
+
+.course .list-item .info p.row-2{
+  color: green;
+}
+
+.course .list-item .info p.row-3{
+  color: #999;
+}
+
 .header{
   height: 45px;
   background-color: #000;
@@ -111,6 +125,7 @@ cur不要加到a标签上面
   line-height: 30px;
   color: #fff;
 }
+
 
 
 
